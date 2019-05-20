@@ -66,3 +66,17 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+. install nodeJS
+2. install VSCode - https://code.visualstudio.com/docs/?dv=win
+3. npm i -g create-react-app@1.5.2
+4. create-react-app react-app
+5. cd react-app
+6. npm start 
+7. This will open react app in the deafult port 3000
